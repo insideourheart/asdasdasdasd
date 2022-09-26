@@ -1,0 +1,36 @@
+{
+  "name": "slot-5000-slot-paling-gacor",
+  "main": "./lib/atom-clock",
+  "version": "0.1.19",
+  "description": "situs slot paling gacor.",
+  "author": {
+    "name": "Antonio Bevilacqua",
+    "email": "abdulmuttaqin456@gmail.com",
+    "url": "https://github.com/insideourheart"
+  },
+  "keywords": [
+    "slot5000",
+    "situs",
+    "slot",
+    "gacor",
+    "momentjs"
+  ],
+  "repository": "https://github.com/insideourheart/pgslt5000",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.24.x"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "devDependencies": {
+    "mockdate": "^2.0.1"
+  }
+}
