@@ -3,19 +3,18 @@
   "main": "./lib/atom-clock",
   "version": "0.1.19",
   "description": "situs slot paling gacor.",
-  "author": {
-    "name": "Antonio Bevilacqua",
-    "email": "abdulmuttaqin456@gmail.com",
-    "url": "https://github.com/insideourheart"
-  },
+  "author": "Antonio Bevilacqua <abdulmuttaqin456@gmail.com> (https://github.com/insideourheart/asdasdasdasd)",
   "keywords": [
     "slot5000",
-    "situs",
+    "situs slot",
     "slot",
     "gacor",
     "momentjs"
   ],
-  "repository": "https://github.com/insideourheart/pgslt5000",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insideourheart/asdasdasdasd"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -32,5 +31,15 @@
   },
   "devDependencies": {
     "mockdate": "^2.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/insideourheart/asdasdasdasd/issues"
+  },
+  "homepage": "https://github.com/insideourheart/asdasdasdasd#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
